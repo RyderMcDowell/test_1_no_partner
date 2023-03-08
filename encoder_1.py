@@ -1,3 +1,4 @@
+##ryder mcdowell
 def encode():
     inputPassword = input("Please enter your password to encode:")
     encodedPassword = " "
